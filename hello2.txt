@@ -1,1 +1,5 @@
+i have a new line
+
+then a new line
+
 This is dummy file
